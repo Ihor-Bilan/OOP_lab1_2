@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\bin\Debug\net8.0\OOP_lab1_zavd2.exe
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\bin\Debug\net8.0\OOP_lab1_zavd2.deps.json
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\bin\Debug\net8.0\OOP_lab1_zavd2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\bin\Debug\net8.0\OOP_lab1_zavd2.dll
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\bin\Debug\net8.0\OOP_lab1_zavd2.pdb
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\OOP_lab1_zavd2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\OOP_lab1_zavd2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\OOP_lab1_zavd2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\OOP_lab1_zavd2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\OOP_lab1_zavd2.dll
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\refint\OOP_lab1_zavd2.dll
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\OOP_lab1_zavd2.pdb
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\OOP_lab1_zavd2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\OOP_lab1_zavd2\OOP_lab1_zavd2\obj\Debug\net8.0\ref\OOP_lab1_zavd2.dll
